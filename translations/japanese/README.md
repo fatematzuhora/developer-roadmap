@@ -11,8 +11,8 @@
 
 ## Backend Roadmap
 
-> [Help us translate](https://github.com/kamranahmedse/developer-roadmap/issues/669)
+![](./img/backend-map.png)
 
 ## DevOps Roadmap
 
-> [Help us translate](https://github.com/kamranahmedse/developer-roadmap/issues/669)
+![](./img/devops.png)
